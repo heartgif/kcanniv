@@ -124,7 +124,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/Downloads\/housetileset.png",
+         "image":"src\/assets\/housetileset.png",
          "imageheight":448,
          "imagewidth":256,
          "margin":0,
@@ -220,7 +220,7 @@
         {
          "columns":16,
          "firstgid":113,
-         "image":"..\/Downloads\/tilesets_interior_para_rmvx_ace___editados_by_milkian_daiujx6.png",
+         "image":"src\/assets\/tilesets_interior_para_rmvx_ace___editados_by_milkian_daiujx6.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -748,7 +748,7 @@
         {
          "columns":16,
          "firstgid":369,
-         "image":"..\/Downloads\/house_inside.png",
+         "image":"src\/assets\/house_inside.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -1510,7 +1510,7 @@
         {
          "columns":16,
          "firstgid":593,
-         "image":"..\/Downloads\/tilesets_modern___mack_by_milkian_dbz1aoz.png",
+         "image":"src\/assets\/tilesets_modern___mack_by_milkian_dbz1aoz.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
